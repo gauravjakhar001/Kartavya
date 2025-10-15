@@ -734,7 +734,7 @@ export const projects: Project[] = [
     {
         title: "Dietitian",
         slug: "dietitian",
-        link: "https://ai-dietitian-kartavya.vercel.app/",
+        link: "https://ai-dietitian-frontend.vercel.app",
         description:
             "An AI Dietitian assistant that understands each user’s unique health goal (weight loss, muscle gain, managing conditions, or boosting energy) and instantly creates a personalized diet plan—adapting recommendations for tastes, allergies, lifestyle, and progress.",
         features: [
