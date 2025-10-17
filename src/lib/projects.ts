@@ -71,7 +71,7 @@ export const projects: Project[] = [
         title: "Entrepreneur Copilot",
         slug: "entrepreneur-copilot",
         img: "entrepreneurCopilot",
-        link: "https://entrepreneur-kartavya.vercel.app/",
+        link: "https://entrepreneur-frontend.vercel.app/",
         description:
             "Empowers startup founders to instantly generate, refine, and execute robust go-to-market (GTM) strategies tailored to their business idea—leveraging AI for market analysis, customer targeting, competitive positioning, and rapid business launch.",
         features: [
@@ -111,7 +111,7 @@ export const projects: Project[] = [
         title: "Github Profile Review Assistant",
         slug: "github-profile-review-assistant",
         img: "githubProfileReviewAssistant",
-        link: "https://git-hub-profile-review-kartavya.vercel.app/",
+        link: "https://git-hub-profile-review-frontend.vercel.app/",
         description:
             "Empowers hiring teams to make confident, data-informed decisions by analyzing and summarizing GitHub profiles—surfacing the most relevant skills, project strengths, and collaboration habits for each developer candidate.",
         features: [
@@ -399,7 +399,7 @@ export const projects: Project[] = [
     {
         title: "Company Name Finder",
         slug: "company-name-finder",
-        link: "https://company-mca-eligibility-kartavya.vercel.app/",
+        link: "https://company-name-mca-frontend.vercel.app/",
         description:
             "Assists entrepreneurs in selecting unique company names that are domain-available and MCA-compliant for legal incorporation in India.",
         features: [
@@ -610,7 +610,7 @@ export const projects: Project[] = [
     {
         title: "Stock Market Expert",
         slug: "stock-market-expert",
-        link: "https://nse-stock-market-analysis-kartavya.vercel.app/",
+        link: "https://nse-stock-market-analysis.vercel.app/",
         description:
             "An AI-powered assistant that instantly answers user queries about Indian stocks, sectors, and market trends using real-time data, analytics, and expert-level insights—available 24/7 in both English and Hindi.",
         features: [
